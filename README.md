@@ -4,3 +4,4 @@ ola! seja bem vindo ao livro de receitas
 
 - strogonoff de frango
 - canjica
+- goiabada
